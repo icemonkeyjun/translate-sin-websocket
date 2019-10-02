@@ -2,3 +2,5 @@ konlpy
 joblib
 soylemma
 numpy
+boto
+boto3
