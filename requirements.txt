@@ -1,3 +1,6 @@
+konlpy
+lxml
+numpy
 absl-py==0.7.1
 altgraph==0.16.1
 aniso8601==7.0.0
@@ -53,8 +56,6 @@ jedi==0.13.3
 Jinja2==2.10.1
 jmespath==0.9.4
 joblib==0.13.2
-JPype1==0.6.3
-JPype1-py3==0.5.5.2
 jsonschema==3.0.1
 jupyter-client==5.2.4
 jupyter-core==4.4.0
@@ -64,10 +65,8 @@ Keras==2.2.4
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
-konlpy==0.5.1
 ldap3==2.5.2
 lines==0.1.0a0
-lxml==4.3.4
 macholib==1.11
 Markdown==3.1.1
 MarkupSafe==1.1.1
@@ -81,7 +80,6 @@ nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.3
 notebook==5.7.8
-numpy==1.16.4
 opencv-python==4.1.0.25
 packaging==19.0
 pandas==0.24.2
@@ -147,18 +145,14 @@ soylemma==0.1.0
 SpeechRecognition==3.8.1
 summa==1.2.0
 sympy==1.4
-tensorboard==1.14.0
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
 textrankr==0.3
-torch==1.1.0
-torchvision==0.3.0
 tornado==5.1.1
 traitlets==4.3.2
-UNKNOWN==2.0.3
 uritemplate==3.0.0
 urllib3==1.25.3
 urwid==2.0.1
